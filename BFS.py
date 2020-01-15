@@ -1,5 +1,5 @@
 #+======================================================================================+
-# |Authors          : Kolli Hrudhay
+# |Author           : Kolli Hrudhay
 # |Package          : Library Books
 # |Module           : BFS.py
 # |Language         : Python 3.7
