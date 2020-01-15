@@ -1,0 +1,19 @@
+1. Which three books have been issued the greatest number of times
+Sol - To answer this question, _getTopBooks method is executed.
+	  The time complexity of this methos is O(n^2).
+
+2. Which books do not have any more copies left in the library (all copies have been issued)
+Sol - To answer this quesiton, _stockOut method is executed.
+	  The time complexity of this methid is O(n).
+
+3. Find out if a particular book is available in the library based on the book id.
+Sol - To answer this quesiton, _findBook method is executed.
+	  The time complexity of this methid is O(n).
+
+4. Out of the entire set of books in the library, list the books that have never been checked out by students
+Sol - To answer this quesiton, notIssued method is executed.
+	  The time complexity of this methid is O(n).
+
+5. Print a list of all the books and available copies.
+Sol - To answer this quesiton, printBooks method is executed.
+	  The time complexity of this methid is O(n^2).

@@ -1,0 +1,37 @@
+findBook: 100055
+findBook: 100015
+findBook: 100002
+findBook: 100003
+findBook: 100025
+checkOut: 100001
+checkOut: 100002
+checkOut: 100003
+checkOut: 100003
+checkOut: 100001
+checkOut: 100025
+checkOut: 100001
+checkOut: 100005
+checkOut: 100013
+checkOut: 100013
+checkOut: 100013
+checkOut: 100013
+checkOut: 100004
+checkOut: 100004
+checkIn: 100001
+checkIn: 100002
+checkOut: 100001
+checkOut: 100001
+checkOut: 100001
+checkOut: 100001
+checkOut: 100001
+checkOut: 100005
+checkOut: 100006
+checkOut: 100005
+checkOut: 100017
+checkOut: 100017
+checkOut: 100017
+ListTopBooks
+BooksNotIssued
+findBook: 100005
+ListStockOut
+printInventory

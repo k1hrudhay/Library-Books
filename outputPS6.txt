@@ -1,0 +1,361 @@
+Book with book id 100055 is not present in the Library.
+
+Book id 100015 is available for checkout.
+
+Book id 100002 is available for checkout.
+
+Book id 100003 is available for checkout.
+
+Book with book id 100025 is not present in the Library.
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 3
+	No of times checked out till now = 0
+
+	The details of book with book id 100001 after the check out are : 
+
+	Book id = 100001
+	Available count = 2
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100002 before the check in/out are : 
+
+	Book id = 100002
+	Available count = 5
+	No of times checked out till now = 0
+
+	The details of book with book id 100002 after the check out are : 
+
+	Book id = 100002
+	Available count = 4
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100003 before the check in/out are : 
+
+	Book id = 100003
+	Available count = 15
+	No of times checked out till now = 0
+
+	The details of book with book id 100003 after the check out are : 
+
+	Book id = 100003
+	Available count = 14
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100003 before the check in/out are : 
+
+	Book id = 100003
+	Available count = 14
+	No of times checked out till now = 1
+
+	The details of book with book id 100003 after the check out are : 
+
+	Book id = 100003
+	Available count = 13
+	No of times checked out till now = 2
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 2
+	No of times checked out till now = 1
+
+	The details of book with book id 100001 after the check out are : 
+
+	Book id = 100001
+	Available count = 1
+	No of times checked out till now = 2
+
+--->  Book with book id 100025 is not available in the Library.
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 1
+	No of times checked out till now = 2
+
+	The details of book with book id 100001 after the check out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 3
+
+===>  The details of book with book id 100005 before the check in/out are : 
+
+	Book id = 100005
+	Available count = 3
+	No of times checked out till now = 0
+
+	The details of book with book id 100005 after the check out are : 
+
+	Book id = 100005
+	Available count = 2
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100013 before the check in/out are : 
+
+	Book id = 100013
+	Available count = 123
+	No of times checked out till now = 0
+
+	The details of book with book id 100013 after the check out are : 
+
+	Book id = 100013
+	Available count = 122
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100013 before the check in/out are : 
+
+	Book id = 100013
+	Available count = 122
+	No of times checked out till now = 1
+
+	The details of book with book id 100013 after the check out are : 
+
+	Book id = 100013
+	Available count = 121
+	No of times checked out till now = 2
+
+===>  The details of book with book id 100013 before the check in/out are : 
+
+	Book id = 100013
+	Available count = 121
+	No of times checked out till now = 2
+
+	The details of book with book id 100013 after the check out are : 
+
+	Book id = 100013
+	Available count = 120
+	No of times checked out till now = 3
+
+===>  The details of book with book id 100013 before the check in/out are : 
+
+	Book id = 100013
+	Available count = 120
+	No of times checked out till now = 3
+
+	The details of book with book id 100013 after the check out are : 
+
+	Book id = 100013
+	Available count = 119
+	No of times checked out till now = 4
+
+===>  The details of book with book id 100004 before the check in/out are : 
+
+	Book id = 100004
+	Available count = 12
+	No of times checked out till now = 0
+
+	The details of book with book id 100004 after the check out are : 
+
+	Book id = 100004
+	Available count = 11
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100004 before the check in/out are : 
+
+	Book id = 100004
+	Available count = 11
+	No of times checked out till now = 1
+
+	The details of book with book id 100004 after the check out are : 
+
+	Book id = 100004
+	Available count = 10
+	No of times checked out till now = 2
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 3
+
+	The details of book with book id 100001 after the check in are : 
+
+	Book id = 100001
+	Available count = 1
+	No of times checked out till now = 3
+
+===>  The details of book with book id 100002 before the check in/out are : 
+
+	Book id = 100002
+	Available count = 4
+	No of times checked out till now = 1
+
+	The details of book with book id 100002 after the check in are : 
+
+	Book id = 100002
+	Available count = 5
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 1
+	No of times checked out till now = 3
+
+	The details of book with book id 100001 after the check out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 4
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 4
+
+The book with book id 100001 cannot be checked out as all copies of the book have been checked out.
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 4
+
+The book with book id 100001 cannot be checked out as all copies of the book have been checked out.
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 4
+
+The book with book id 100001 cannot be checked out as all copies of the book have been checked out.
+
+===>  The details of book with book id 100001 before the check in/out are : 
+
+	Book id = 100001
+	Available count = 0
+	No of times checked out till now = 4
+
+The book with book id 100001 cannot be checked out as all copies of the book have been checked out.
+
+===>  The details of book with book id 100005 before the check in/out are : 
+
+	Book id = 100005
+	Available count = 2
+	No of times checked out till now = 1
+
+	The details of book with book id 100005 after the check out are : 
+
+	Book id = 100005
+	Available count = 1
+	No of times checked out till now = 2
+
+===>  The details of book with book id 100006 before the check in/out are : 
+
+	Book id = 100006
+	Available count = 3
+	No of times checked out till now = 0
+
+	The details of book with book id 100006 after the check out are : 
+
+	Book id = 100006
+	Available count = 2
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100005 before the check in/out are : 
+
+	Book id = 100005
+	Available count = 1
+	No of times checked out till now = 2
+
+	The details of book with book id 100005 after the check out are : 
+
+	Book id = 100005
+	Available count = 0
+	No of times checked out till now = 3
+
+===>  The details of book with book id 100017 before the check in/out are : 
+
+	Book id = 100017
+	Available count = 76
+	No of times checked out till now = 0
+
+	The details of book with book id 100017 after the check out are : 
+
+	Book id = 100017
+	Available count = 75
+	No of times checked out till now = 1
+
+===>  The details of book with book id 100017 before the check in/out are : 
+
+	Book id = 100017
+	Available count = 75
+	No of times checked out till now = 1
+
+	The details of book with book id 100017 after the check out are : 
+
+	Book id = 100017
+	Available count = 74
+	No of times checked out till now = 2
+
+===>  The details of book with book id 100017 before the check in/out are : 
+
+	Book id = 100017
+	Available count = 74
+	No of times checked out till now = 2
+
+	The details of book with book id 100017 after the check out are : 
+
+	Book id = 100017
+	Available count = 73
+	No of times checked out till now = 3
+
+List of top books that have been checked out :
+Top Books 1: 100001, 4
+Top Books 1: 100013, 4
+Top Books 2: 100017, 3
+Top Books 2: 100005, 3
+Top Books 3: 100004, 2
+Top Books 3: 100003, 2
+
+
+List of books not issued:
+100008
+100016
+100009
+100018
+100019
+100010
+100020
+100011
+100012
+100007
+100014
+100015
+
+
+All copies of book id 100005 have been checked out.
+
+All available copies of the below books have been checked out:
+100001
+100005
+
+
+
+There are a total of 20 book titles in the library:
+100001,0
+100002,5
+100003,13
+100004,10
+100005,0
+100006,2
+100007,4
+100008,5
+100009,6
+100010,7
+100011,8
+100012,9
+100013,119
+100014,2
+100015,4
+100016,5
+100017,73
+100018,4
+100019,23
+100020,4
