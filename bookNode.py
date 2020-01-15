@@ -1,5 +1,5 @@
 #+======================================================================================+
-# |Authors          : Kolli Hrudhay,Narendrababu S,Akshat Gupta,Potturi Mourya Chandra
+# |Authors          : Kolli Hrudhay
 # |Package          : Library Books
 # |Module           : bookNode.py
 # |Language         : Python 3.7
